@@ -2,8 +2,7 @@
 
 **You can get an idea from the hover style of my photos**
 
-![hoverEffect](![trick](https://github.com/alinajafiweb/hoverTrick/assets/147813870/6a98bf0c-d2e9-4244-822f-b2f640b235fc)
-)
+![trick](https://github.com/alinajafiweb/hoverTrick/assets/147813870/6a98bf0c-d2e9-4244-822f-b2f640b235fc)
 
 
 

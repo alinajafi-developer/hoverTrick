@@ -8,7 +8,7 @@
 
 - [Demo Project](https://alinajafi-developer.github.io/hoverTrick/)
 
-- Developed by Ali Afrouz
+- Developed by Ali Najafi
 
 - Created - 2023-10-16
 

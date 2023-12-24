@@ -2,11 +2,11 @@
 
 **You can get an idea from the hover style of my photos**
 
-![trick](https://github.com/alinajafiweb/hoverTrick/assets/147813870/6a98bf0c-d2e9-4244-822f-b2f640b235fc)
+![trick](https://github.com/alinajafi-developer/hoverTrick/assets/147813870/6a98bf0c-d2e9-4244-822f-b2f640b235fc)
 
 
 
-- [Demo Project](https://aliafrouz.github.io/hoverTrick/)
+- [Demo Project](https://alinajafi-developer.github.io/hoverTrick/)
 
 - Developed by Ali Afrouz
 
@@ -17,4 +17,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/aliafrouz_com) and [linkedin](https://www.linkedin.com/in/aliafrouz/)
+- How to reach me : with my [instagram](https://www.instagram.com/alinajafi_developer) and [linkedin](https://www.linkedin.com/in/alinajafi-developer/)
